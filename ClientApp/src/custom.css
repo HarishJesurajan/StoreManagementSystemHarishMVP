@@ -1,0 +1,30 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+button {
+    margin: 1px;
+}
+body{
+    background-color:snow
+}
+
+select{
+    min-width:200px
+}
+span {
+    min-width: 200px
+}
+input {
+    min-width: 200px
+}
